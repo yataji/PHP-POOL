@@ -1,0 +1,83 @@
+td {
+			text-align: center;
+			font-weight: bold;
+			border: solid transparent;
+			width: 1%;
+			height: 1%;
+			border-radius: 10%;
+			font-size: 1vw;
+		}
+
+		p.topr {
+			font-size: 0.5vw;
+			font-weight: normal;
+			margin-top: auto;
+			text-align: right;
+		}
+
+		p.topl {
+			font-size: 0.5vw;
+			font-weight: normal;
+			margin-bottom: auto;
+			text-align: left;
+		}
+
+		.center {
+			display: flex;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		table {
+			width: 80%;
+			height: auto;
+			margin: auto; 
+		}
+
+		h1 {
+			color: blueviolet;
+		}
+
+		.back {
+			background-image: url(https://anniversaire-celebrite.com/upload/250x333/dmitri-mendeleiev-250.jpg);
+		}
+
+		.solo {
+			background-color: rgb(243, 134, 44);
+		}
+
+		.soloa {
+			background-color: violet;
+		}
+
+		.a {
+			background-color: grey;
+		}
+
+		.b {
+			background-color: yellow;
+		}
+
+		.c {
+			background-color: red;
+		}
+
+		.d {
+			background-color: #b403b4;
+		}
+
+		.e {
+			background-color: green;
+		}
+
+		.f {
+			background-color: greenyellow;
+		}
+
+		.g {
+			background-color: rgb(74, 158, 236);
+		}
+
+		.h {
+			background-color: rgb(24, 91, 214);
+		}
