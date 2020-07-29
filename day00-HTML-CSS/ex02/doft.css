@@ -1,0 +1,211 @@
+body
+{
+    background-color: 505050;
+    width: 1000px;
+    font-family: sans-serif;
+}
+.H
+{
+    border: solid 2px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 2px;
+    background-color: 909090;
+    margin: auto;
+    width: 2000px;
+    height: 195px;
+    position: relative;
+    left: 600px;
+}
+.reload
+{
+    object-fit: contain;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0px;
+}
+.close
+{
+    object-fit: contain;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.loupe
+{
+    object-fit: contain;
+    position: absolute;
+    width: auto;
+    height: 200px;
+    right: 30px;
+    bottom: -25px;
+}
+.dot
+{
+    object-fit: contain;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: -150px;
+}
+.L
+{
+    border: solid 2px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 2px;
+    background-color: 909090;
+    position: relative;
+    left: 680px;
+    top: 15px;
+    width: 200px;
+    height: 650px;
+}
+.arrow
+{
+    object-fit: contain;
+    position: absolute;
+    margin-left: 45px;
+    margin-top: auto;
+    width: 100px;
+    height: 100px;
+}
+.main
+{
+    object-fit: contain;
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;
+}
+.oeil
+{
+    object-fit: contain;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 210px;
+    height: 100px;
+    width: 100px;
+    border: solid red 8px;
+    border-radius: 10px;
+}
+.outil
+{
+    object-fit: contain;
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 345px;
+    height: 100px;
+    width: 100px;
+}
+.chat
+{
+    object-fit: contain;
+    position: absolute;
+    margin-left: 42px;
+    margin-top: 450px;
+    height: 100px;
+    width: 100px;
+}
+.R
+{
+    border: solid 2px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 2px;
+    background-color: 909090;
+    position: relative;
+    left: 2320px;
+    top: -640px;
+    width: 200px;
+    height: 650px;
+}
+.book
+{
+    object-fit: contain;
+    position: absolute;
+    height: 200px;
+    width: 100px;
+    margin-left: 45px;
+    margin-top: -10px;
+}
+.towel
+{
+    object-fit: contain;
+    position: absolute;
+    margin-left: 29px;
+    margin-right: auto;
+    margin-top: 130px;
+    height: 200px;
+    width: 150px;
+}
+
+#brick
+{
+    background-image: url("resources/brick.jpg");
+    width: 120px;
+    height: 70px;
+    position: relative;
+    top: 300px;
+    left: 40px;
+}
+table tr td
+{
+    padding: 0px;
+    margin: 0px;
+}
+.cluster
+{
+    border: solid 10px #909090;
+    box-shadow: 5px 5px 5px 2px;
+    border-radius: 10px;
+    position: absolute;
+    left: 910px;
+    top: 224px;
+    height: 1000px;
+    width: 1382px;
+}
+h1
+{
+    display: inline-block;
+    font-family: serif;
+}
+.it
+{
+    font-weight: 500;
+    border: solid #cccccc 1px;
+    border-radius: 3px;
+    font-size: 13pt;
+    width: 135px;
+    height: 36px;
+}
+span
+{
+    text-shadow: red 7px 7px 5px;
+}
+.ip
+{
+    box-sizing: content-box;
+    margin-left: 15px;
+    width: 500px;
+    height: 30px;
+}
+.txt
+{
+    font-size: 20pt;
+    line-height: 0pt;
+    border: solid #a4fb96 3px;
+    border-radius: 17px;
+    height: 240px;
+    width: 700px;
+    margin-top: -400px;
+    margin-left: 550px;
+    position: relative;
+    background: #a4fb96;
+}
+p
+{
+    font-style: italic;
+}
